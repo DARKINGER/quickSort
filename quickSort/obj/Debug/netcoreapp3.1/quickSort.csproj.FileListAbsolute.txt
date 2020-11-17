@@ -1,0 +1,13 @@
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\bin\Debug\netcoreapp3.1\quickSort.exe
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\bin\Debug\netcoreapp3.1\quickSort.deps.json
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\bin\Debug\netcoreapp3.1\quickSort.runtimeconfig.json
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\bin\Debug\netcoreapp3.1\quickSort.runtimeconfig.dev.json
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\bin\Debug\netcoreapp3.1\quickSort.dll
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\bin\Debug\netcoreapp3.1\quickSort.pdb
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\obj\Debug\netcoreapp3.1\quickSort.csprojAssemblyReference.cache
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\obj\Debug\netcoreapp3.1\quickSort.csproj.CoreCompileInputs.cache
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\obj\Debug\netcoreapp3.1\quickSort.AssemblyInfoInputs.cache
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\obj\Debug\netcoreapp3.1\quickSort.AssemblyInfo.cs
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\obj\Debug\netcoreapp3.1\quickSort.dll
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\obj\Debug\netcoreapp3.1\quickSort.pdb
+C:\Users\USR\Documents\Estructura de datos\Programas\Unidad4\quickSort\quickSort\obj\Debug\netcoreapp3.1\quickSort.genruntimeconfig.cache
