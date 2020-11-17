@@ -18,7 +18,6 @@ namespace quickSort
             Console.ReadKey();
 
         }
-
         static void QuickSort(int[] a)
         {
             QuickSort(a, 0, a.Length - 1);
@@ -26,6 +25,8 @@ namespace quickSort
 
         static void QuickSort(int[] a, int start, int end)
         {
+
+
             if (start >= end)
             {
                 return;
